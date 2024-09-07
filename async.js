@@ -43,5 +43,4 @@ console.log("Waiting for your pizza...");
 // reject: a callback function that is used when the promise is rejected.
 // .then(): a method that is used to handle the resolved promise.
 // .catch(): a method that is used to handle the rejected promise.
-
-//test
+//update
